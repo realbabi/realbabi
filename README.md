@@ -5,7 +5,7 @@ Multilingual cybersecurity enthusiast and USAF veteran pursuing a B.S. in Cyber 
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. My interests have also captured cloud infrastructure and security.
 
 ## Skills
 <!--
