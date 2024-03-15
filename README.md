@@ -8,7 +8,6 @@ Multilingual cybersecurity enthusiast and USAF veteran pursuing a B.S. in Cyber 
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. My interests have also captured cloud infrastructure and security.
 
 ## Skills
-<!--
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -17,7 +16,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
--->
 ## Tools
 
 ### Network
