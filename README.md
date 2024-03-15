@@ -24,6 +24,10 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-orange?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Security_Onion-ff69b4?&style=for-the-badge" />
+
+
  <!--   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
   -->
@@ -31,8 +35,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
@@ -47,14 +50,19 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A+%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/Certified_Security_Professional-007ACC?style=for-the-badge&logo=security&logoColor=white" />
+
 
 
 
 </div>
 
 ## Projects
-<a href="https://github.com/realbabi/networking_lab">Network Lab</a>
+| Associated Project         |
+|----------------------------|
+| <a href="https://github.com/realbabi/networking_lab">Networking Lab</a>|
+| <a href="https://github.com/realbabi/Detection-Monitoring-Lab">Detection-Monitoring Lab</a>|
+<!--
+
 <!--
 - Detection Lab
 - SOC Automation Project
